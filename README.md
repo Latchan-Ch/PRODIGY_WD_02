@@ -25,5 +25,5 @@ This is Task 2 of my **Web Development Internship** at **Prodigy Infotech** – 
 
 **Company:** Prodigy Infotech  
 **Role:** Web Development Intern  
-**Month:** July 2025  
+**Month:** June 2025  
 **Task:** Stopwatch App  
